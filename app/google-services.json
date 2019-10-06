@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992727685417",
+    "firebase_url": "https://loreenproject2020.firebaseio.com",
+    "project_id": "loreenproject2020",
+    "storage_bucket": "loreenproject2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992727685417:android:644c9fa1750545446c7f38",
+        "android_client_info": {
+          "package_name": "com.example.loreenproject2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992727685417-02jl61q8nl94psnadiq5fpma3ur5arqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loreenproject2020",
+            "certificate_hash": "905600aa45827a3ea4f60a53a8e7459030b5b400"
+          }
+        },
+        {
+          "client_id": "992727685417-4guemsbrtq6k9vcufq4i9t94bspi8df5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqI65x_fs7wpslLJVz1w1ikmLjFZH9DK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992727685417-4guemsbrtq6k9vcufq4i9t94bspi8df5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
